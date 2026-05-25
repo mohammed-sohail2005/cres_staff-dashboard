@@ -1,0 +1,18 @@
+{
+  "name": "cres-academic-portal",
+  "version": "1.0.0",
+  "description": "Academic Management Portal — B.S. Abdur Rahman Crescent Institute of Science & Technology",
+  "main": "academic.html",
+  "scripts": {
+    "start": "npx serve",
+    "dev": "npx serve"
+  },
+  "keywords": [
+    "academic",
+    "portal",
+    "BSACIST",
+    "management"
+  ],
+  "author": "",
+  "license": "ISC"
+}
